@@ -1,0 +1,3 @@
+./compresie C fisier.txt => comprimat.txt va avea codurile Huffman si textul in caracterele 1 si 0
+			    compressed_.txt textul comprimat propriu-zis
+./compresie D comprimat.txt => textul initial reconstruit in decomprimat.txt
